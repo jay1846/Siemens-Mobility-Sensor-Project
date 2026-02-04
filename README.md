@@ -1,4 +1,4 @@
-# Siemens-Mobility-Sensor-Project
+# Sensor-Data-Processing
 Reliability-enhanced Sensor System with ESP32: Signal Filtering &amp; Self-Diagnostics for Condition Monitoring
 
 # Reliability-enhanced Sensor System for Condition Monitoring
